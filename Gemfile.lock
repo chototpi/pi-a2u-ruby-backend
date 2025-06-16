@@ -1,20 +1,12 @@
-
 GEM
-  remote: https://rubygems.org/
   specs:
-    faraday (1.6.0)
-    minitest (5.25.4)
-    mocha (2.7.1)
-    stellar-sdk (0.31.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  faraday (~> 1.6.0)
-  minitest (~> 5.25.4)
-  mocha (~> 2.7.1)
-  stellar-sdk (~> 0.31.0)
+  pinetwork!
+  sinatra
 
 BUNDLED WITH
    2.4.22
