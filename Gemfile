@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "sinatra"
-gem "pinetwork", path: "."  # Sử dụng gem pinetwork từ thư mục hiện tại
+gem 'sinatra'
+gem 'pinetwork', git: 'https://github.com/pi-apps/pi-ruby.git'
