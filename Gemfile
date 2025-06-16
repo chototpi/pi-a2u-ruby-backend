@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "sinatra"
-gem "pinetwork", git: "https://github.com/pi-apps/pi-ruby", branch: "main"
+gem 'sinatra'
+gem 'pinetwork'
